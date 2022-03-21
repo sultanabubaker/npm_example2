@@ -16,7 +16,7 @@
   "author": "Tierney Cyren <hello@bnb.im>",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^25.2.6",
+    "jest": "^26.0.0",
     "standard": "^14.3.3"
   },
   "dependencies": {
